@@ -1,1 +1,2 @@
 # gitInfo
+BUILD SUCCESS
